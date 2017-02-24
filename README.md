@@ -9,4 +9,4 @@ Credit: "Global Map of Mali © ISCGM/IGM"
 
 Contact: Geographic Institute of Mali(IGM).
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/mali.png)
+E-mail: ![email](email.png)
